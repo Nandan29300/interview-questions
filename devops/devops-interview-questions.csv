@@ -9,3 +9,8 @@ Spotify,2024,@docker_ninja,DevOps Engineer,2-3 years,Docker,"How do you optimize
 Adobe,2024,@cicd_pro,DevOps Lead,5+ years,CI/CD,"What is GitOps? How does it differ from traditional CI/CD approaches? Have you implemented it?"
 PayPal,2023,@aws_architect,Cloud Architect,5+ years,AWS,"Explain AWS VPC peering vs Transit Gateway. When would you use each approach for multi-VPC connectivity?"
 Zomato,2024,@script_master,DevOps Engineer,1-2 years,Shell Scripting,"How do you handle errors in shell scripts? Explain the use of set -e, set -u, and trap commands."
+Tesla,2024,@infra_expert,DevOps Engineer,3-5 years,Terraform,"Explain Terraform state management. How do you handle state locking and remote state in a team environment?"
+Meta,2024,@monitoring_pro,Site Reliability Engineer,5+ years,Monitoring,"What metrics would you monitor for a microservices architecture? How would you set up alerting thresholds?"
+Airbnb,2023,@security_dev,DevSecOps Engineer,3-5 years,Security,"How do you implement secrets management in a CI/CD pipeline? What tools would you recommend?"
+Swiggy,2024,@cloud_native,Cloud Engineer,2-3 years,Kubernetes,"Explain Kubernetes Ingress controllers. How do you configure SSL/TLS termination and load balancing?"
+Apple,2024,@automation_guru,DevOps Architect,5+ years,Ansible,"What is the difference between Ansible roles and playbooks? How do you structure a complex Ansible project?"
