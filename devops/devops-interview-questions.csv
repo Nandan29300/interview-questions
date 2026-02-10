@@ -10,3 +10,8 @@ Spotify,2024,@docker_ninja,DevOps Engineer,2-3 years,Docker,"How do you optimize
 Meta,2024,@monitoring_pro,Site Reliability Engineer,5+ years,Monitoring,"What metrics would you monitor for a microservices architecture? How would you set up alerting thresholds?"
 Airbnb,2023,@security_dev,DevSecOps Engineer,3-5 years,Security,"How do you implement secrets management in a CI/CD pipeline? What tools would you recommend?"
 Apple,2024,@automation_guru,DevOps Architect,5+ years,Ansible,"What is the difference between Ansible roles and playbooks? How do you structure a complex Ansible project?"
+Oracle,2024,@db_ops,Database DevOps,3-5 years,Database,"How do you implement database migrations in a CI/CD pipeline? What strategies do you use for zero-downtime schema changes?"
+Salesforce,2023,@cloud_architect,Cloud DevOps,5+ years,Cloud Architecture,"Explain blue-green deployment vs canary deployment. In what scenarios would you choose each strategy?"
+Adobe,2024,@container_expert,DevOps Engineer,2-3 years,Docker Compose,"How do you orchestrate multiple microservices locally using Docker Compose? Explain networking and volume management."
+LinkedIn,2024,@jenkins_pro,CI/CD Engineer,3-5 years,Jenkins,"What are Jenkins pipelines? Explain the difference between Declarative and Scripted pipelines with examples."
+Slack,2023,@log_master,DevOps Engineer,2-3 years,Logging,"How do you implement centralized logging for a distributed system? What's your approach to log aggregation and analysis?"
