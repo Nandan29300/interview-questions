@@ -1,0 +1,11 @@
+company,year,contributor,role,experience,topic,question
+Amazon,2024,@johndoe,DevOps Engineer,3-5 years,Docker,"Explain the difference between Docker CMD and ENTRYPOINT. When would you use one over the other?"
+Google,2024,@janedoe,SRE,5+ years,Kubernetes,"How do you implement rolling updates in Kubernetes? What strategies would you use to ensure zero downtime?"
+Microsoft,2023,@devops_guru,Cloud Engineer,2-3 years,CI/CD,"Describe a complete CI/CD pipeline you've built. What tools did you use and how did you handle deployment failures?"
+Flipkart,2024,@shubham,DevOps Engineer,3-5 years,Shell Scripting,"Write a shell script to monitor disk usage and send an alert when it exceeds 80%. How would you automate this?"
+Netflix,2024,@cloudmaster,Senior DevOps,5+ years,AWS,"Explain the difference between ALB and NLB in AWS. In what scenarios would you choose one over the other?"
+Uber,2023,@k8s_expert,Platform Engineer,3-5 years,Kubernetes,"What are StatefulSets in Kubernetes? How do they differ from Deployments and when should you use them?"
+Spotify,2024,@docker_ninja,DevOps Engineer,2-3 years,Docker,"How do you optimize Docker images for production? Explain multi-stage builds with an example."
+Adobe,2024,@cicd_pro,DevOps Lead,5+ years,CI/CD,"What is GitOps? How does it differ from traditional CI/CD approaches? Have you implemented it?"
+PayPal,2023,@aws_architect,Cloud Architect,5+ years,AWS,"Explain AWS VPC peering vs Transit Gateway. When would you use each approach for multi-VPC connectivity?"
+Zomato,2024,@script_master,DevOps Engineer,1-2 years,Shell Scripting,"How do you handle errors in shell scripts? Explain the use of set -e, set -u, and trap commands."
