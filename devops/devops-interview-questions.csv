@@ -6,3 +6,7 @@ Flipkart,2024,@shubham,DevOps Engineer,3-5 years,Shell Scripting,"Write a shell 
 Netflix,2024,@cloudmaster,Senior DevOps,5+ years,AWS,"Explain the difference between ALB and NLB in AWS. In what scenarios would you choose one over the other?"
 Tesla,2024,@infra_expert,DevOps Engineer,3-5 years,Terraform,"Explain Terraform state management. How do you handle state locking and remote state in a team environment?"
 Uber,2023,@k8s_expert,Platform Engineer,3-5 years,Kubernetes,"What are StatefulSets in Kubernetes? How do they differ from Deployments and when should you use them?"
+Spotify,2024,@docker_ninja,DevOps Engineer,2-3 years,Docker,"How do you optimize Docker images for production? Explain multi-stage builds with an example."
+Meta,2024,@monitoring_pro,Site Reliability Engineer,5+ years,Monitoring,"What metrics would you monitor for a microservices architecture? How would you set up alerting thresholds?"
+Airbnb,2023,@security_dev,DevSecOps Engineer,3-5 years,Security,"How do you implement secrets management in a CI/CD pipeline? What tools would you recommend?"
+Apple,2024,@automation_guru,DevOps Architect,5+ years,Ansible,"What is the difference between Ansible roles and playbooks? How do you structure a complex Ansible project?"
